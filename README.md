@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm LitxDev
 #### i'm a young indie game developer
-![i'm a young indie game developer](https://pbs.twimg.com/profile_banners/1360688881188937736/1629720107/600x200)
+![i'm a young indie game developer](https://pbs.twimg.com/profile_banners/1360688881188937736/1629720538/600x200)
 
 I like making games, websites, apps
 
