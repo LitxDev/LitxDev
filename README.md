@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm LitxDev
+#### i'm a young indie game developer
+![i'm a young indie game developer](https://pbs.twimg.com/profile_banners/1360688881188937736/1629720107/600x200)
 
-<!--
-**LitxDev/LitxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like making games, websites, apps
 
-Here are some ideas to get you started:
+Skills: html/css / javascript / python / gdscript / c#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LitxDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Litxdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://litxdev.tk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/itch-dot-io.svg' alt='itch-dot-io' height='40'>](https://litxdev.itch.io/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LitxDev)](https://github.com/anuraghazra/github-readme-stats)
+
