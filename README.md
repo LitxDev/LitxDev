@@ -13,4 +13,5 @@
   [<img src='https://github.com/LitxDev/LitxDev/blob/master/itch-dot-io.svg' alt='itch-dot-io' height='40'>](https://litxdev.itch.io/)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LitxDev&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
